@@ -58,4 +58,13 @@ This project implements an Arduino-based interface for the TechPup Hugvest proto
 | Pulse graph not updating | Confirm sensor placement and connections (A0). |
 | Upload fails | Disconnect Bluetooth RX/TX pins before uploading. |
 
-## Repository Structure
+## Credits
+Developed by **Rodrigo Fernando Rivera Olea** as part of the TechPup Hugvest prototype.  
+Libraries used: [RemoteXY](http://remotexy.com/), [PulseSensor Playground](https://github.com/WorldFamousElectronics/PulseSensorPlayground).
+
+## License
+This project is open-source under the **GNU Lesser General Public License (LGPL-2.1)**.  
+For details, see the [LICENSE](#) file.
+
+---
+**Note**: For a detailed guide, refer to the [full documentation](#) (PDF included in the repository).
